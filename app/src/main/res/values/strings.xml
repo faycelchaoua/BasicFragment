@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1">Hello Fragment 1</string>-->
+    <string name="static_fragment">Fragment Statique</string>
+    <string name="dynamic_fragment">Fragment Dynamique</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
